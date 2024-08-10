@@ -1,3 +1,3 @@
-module github.com/zilliztech/knowhere
+module github.com/Presburger/knowhere
 
 go 1.22.5
